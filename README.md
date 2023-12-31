@@ -1,4 +1,4 @@
-# MusicExplore-App
+# RandomPhoto App
 
 **Project Motivation :**
 
